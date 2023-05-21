@@ -1,10 +1,11 @@
 # UpperLowerRand
 
-Please find below the introduction of this repository in the following languages,
-Alla on tämän repositoryn esittely seuraavilla kielillä,
-Vänligen se nedanför introduktionen av denna repository på följande språk:
+- Please find below the introduction of this repository in the following languages,
+- Alla on tämän repositoryn esittely seuraavilla kielillä,
+- Vänligen se nedanför introduktionen av denna repository på följande språk:
 
-[Suomi](#) - [English](#) - [Swedish](#)
+
+###  [Suomi](https://github.com/mazkdevf/UpperLowerRand/blob/main/README.md#johdanto-upperlowerrand-repositorioon---fi) - [English](https://github.com/mazkdevf/UpperLowerRand/blob/main/README.md#introduction-to-upperlowerrand-repository---en) - [Swedish](https://github.com/mazkdevf/UpperLowerRand/blob/main/README.md#introduktion-till-upperlowerrand-repositoriet---swe)
 
 
 ## Introduction to UpperLowerRand Repository - EN
