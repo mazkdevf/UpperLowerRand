@@ -12,12 +12,12 @@
 Example code to generate random string of length = 10 with Upper and Lower Letters:
 ```js
 function UpperLowerRand() {
-    var cadena = "";
-    var letras = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+    var output = "";
+    var keywords = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
     for (var i = 0; i < 10; i++) {
-        cadena += letras.charAt(Math.floor(Math.random() * letras.length));
+        output += keywords.charAt(Math.floor(Math.random() * keywords.length));
     }
-    return cadena;
+    return output;
 }
 
 var rand = UpperLowerRand();
@@ -50,12 +50,12 @@ GSEU-jz4p-LOH3-44xk
 Esimerkkikoodi satunnaisen merkkijonon generoimiseksi pituudeltaan 10 suurilla ja pienillä kirjaimilla:
 ```js
 function UpperLowerRand() {
-    var cadena = "";
-    var letras = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+    var output = "";
+    var keywords = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
     for (var i = 0; i < 10; i++) {
-        cadena += letras.charAt(Math.floor(Math.random() * letras.length));
+        output += keywords.charAt(Math.floor(Math.random() * keywords.length));
     }
-    return cadena;
+    return output;
 }
 
 var rand = UpperLowerRand();
@@ -89,12 +89,12 @@ GSEU-jz4p-LOH3-44xk
 Exempelkod för att generera en slumpmässig sträng med längd = 10 med versaler och gemener:
 ```js
 function UpperLowerRand() {
-    var cadena = "";
-    var letras = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+    var output = "";
+    var keywords = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
     for (var i = 0; i < 10; i++) {
-        cadena += letras.charAt(Math.floor(Math.random() * letras.length));
+        output += keywords.charAt(Math.floor(Math.random() * keywords.length));
     }
-    return cadena;
+    return output;
 }
 
 var rand = UpperLowerRand();
